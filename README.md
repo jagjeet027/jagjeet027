@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jaggie</h1>
 <h3 align="center">A passionate FULL STACK WEB Developer from India</h3>
 
-<p align="left" width=400> <img align="left" width=400 src="https://indoanalytica.com/static/images/data-science-5.gif" alt="jagjeet027" /> </p>
+<img align="left" width=400 src="https://indoanalytica.com/static/images/data-science-5.gif" alt="jagjeet027" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagjeet027" alt="jagjeet027" /></a> </p>
 
