@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jaggie</h1>
 <h3 align="center">A passionate FULL STACK WEB Developer from India</h3>
-  <img align="right" width=400 src="[https://indoanalytica.com/static/images/data-science-5.gif](https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif)" alt="jagjeet027" />
+  <img align="right" width=400 src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="jagjeet027" />
 - 🔭 I’m currently working on **JOB-LISTENING PORTAL PROJECT**
 
 - 🌱 I’m currently learning **TYPESCRIPT AND UI/UX DESIGN**
