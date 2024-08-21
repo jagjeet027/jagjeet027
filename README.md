@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm jaggie</h1>
 <h3 align="center">A passionate FULL STACK WEB Developer from India</h3>
-  <img align="right" width=400 src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="jagjeet027" />
 - 🔭 I’m currently working on **JOB-LISTENING PORTAL PROJECT**
 
 - 🌱 I’m currently learning **TYPESCRIPT AND UI/UX DESIGN**
-
+<img align="right" width=400 src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="jagjeet027" />
 - 📝 I regularly write articles on [https://web-developing.hashnode.dev/](https://web-developing.hashnode.dev/)
 
 - 💬 Ask me about **NODE,EXPRESS,MONGODB+ MONGOOSE AND JAVASCRIPT**
