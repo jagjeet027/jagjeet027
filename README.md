@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jaggie</h1>
 <h3 align="center">A passionate FULL STACK WEB Developer from India</h3>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5438fd36-f548-4cdc-999e-c9242875e274/deploy-status)](https://app.netlify.com/sites/jaggie-portfolio-world/deploys)?query=dev
+https://jaggie-portfolio-world.netlify.app/
 <img align="right" width=400 src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="jagjeet027" />
 <h3 align="top">Connect with me:</h3>
 <p align="left">
