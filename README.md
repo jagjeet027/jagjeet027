@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jaggie</h1>
 <h3 align="center">A passionate FULL STACK WEB Developer from India</h3>
-<h1>check it out here my all details in brifly :   https://jaggie-portfolio-world.netlify.app/</h1>
+<h3>check it out here my all details in brifly :   https://jaggie-portfolio-world.netlify.app/</h3>
 <img align="right" width=400 src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="jagjeet027" />
 <h3 align="top">Connect with me:</h3>
 <p align="left">
