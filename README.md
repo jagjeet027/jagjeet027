@@ -7,7 +7,7 @@
 <a href="https://twitter.com/jaiswal_ja99213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiswal_ja99213" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jagjeet-jaiswal-88a35323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagjeet-jaiswal-88a35323b/" height="30" width="40" /></a>
 </p>
-- 🔭 I’m currently working on **JOB-LISTENING PORTAL PROJECT**
+- 🔭 I’m currently working on **FURNIMART(FREELANCING)**
 
 - 🌱 I’m currently learning **TYPESCRIPT AND UI/UX DESIGN**
 
